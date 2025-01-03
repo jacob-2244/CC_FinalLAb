@@ -1,0 +1,35 @@
+/*********************************************************\
+For Ex-1
+
+read x ;
+if 0 < x then
+	fact := 1 ;
+	repeat
+		fact := fact * x ;
+		x := x - 1
+	until x = 0 ;
+	write fact { output factorial  of x}
+end
+/*********************************************************\
+For Ex-2
+
+read x ;
+if x := 4 then
+write xyz ;
+end
+/*********************************************************\ 
+For Ex-3
+
+if abc < xyz then
+min := abc ;
+else
+min := xyz ;
+end 
+{dfsdf}
+x := y
+/*********************************************************\
+
+For EX-4 (Check Error)
+
+if abc < xyz
+min = abc ;
